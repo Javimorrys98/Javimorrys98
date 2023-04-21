@@ -2,21 +2,17 @@
 
 <div align="center">
 <h1 align="center">👋Hi there. My name is Javier and this is my profile!👋</h1>
-<img src="https://i.imgur.com/olN5Cee.png" >
+<img src="https://i.imgur.com/olN5Cee.png"  height="1200" width="400 >
 </div>
 
 
-<!--
-**Javimorrys98/Javimorrys98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mi
 
-Here are some ideas to get you started:
+- 📱💻 Cross platform developer.
+- 🎮👾 Video game enthusiast!
+- ✏️ Y por escrito en [CursoKotlin](https://cursokotlin.com)
+- 📗 Autor del libro [Iniciación a Android en Kotlin. Casos prácticos](https://www.paraninfo.es/catalogo/9788428340922/iniciacion-a-android-en-kotlin--casos-practicos)
+- 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
