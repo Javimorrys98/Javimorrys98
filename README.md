@@ -3,7 +3,7 @@
 <div align="center">
 <h1 align="center">👋Hi there. My name is Javier and this is my profile!👋</h1>
 </div>
-<img src="https://imgur.com/a/UNhJrCx">
+<img src="https://i.imgur.com/olN5Cee.png">
 
 <!--
 **Javimorrys98/Javimorrys98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
