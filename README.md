@@ -2,8 +2,9 @@
 
 <div align="center">
 <h1 align="center">👋Hi there. My name is Javier and this is my profile!👋</h1>
+<img src="https://i.imgur.com/olN5Cee.png" >
 </div>
-<img src="https://i.imgur.com/olN5Cee.png" align="center">
+
 
 <!--
 **Javimorrys98/Javimorrys98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
