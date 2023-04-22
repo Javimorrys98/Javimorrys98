@@ -11,7 +11,7 @@
 - 📱💻 Cross platform developer.
 - 🌐 Currently working and contributing to frontend and backend for building web aplications.
 - 🎮👾 Video game enthusiast!
-- 💼 Contact me via https://www.linkedin.com/in/javier-tom%C3%A9-rold%C3%A1n-a05579265/</a>
+- 💼 Contact me via <p><a href="https://www.linkedin.com/in/javier-tom%C3%A9-rold%C3%A1n-a05579265">Linkedin</a></p>
 <br>
 
 
