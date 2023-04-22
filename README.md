@@ -2,7 +2,7 @@
 
 <div align="center">
 <h1 align="center">👋Hi there. My name is Javier and this is my profile!👋</h1>
-<img src="https://i.imgur.com/olN5Cee.png"  height="300" width="900" >
+<img src="https://i.imgur.com/olN5Cee.png">
 </div>
 
 <br>
