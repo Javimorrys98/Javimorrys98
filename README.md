@@ -2,7 +2,6 @@
 
 <div align="center">
 <h1 align="center">👋Hi there. My name is Javier and this is my profile!👋</h1>
-<img src="https://i.imgur.com/olN5Cee.png">
 </div>
 <br>
 <h2>👨🏻‍💻About me:</h2>
