@@ -7,7 +7,7 @@
 <h2>👨🏻‍💻About me:</h2>
 <ul>
   <li>📱💻 Cross platform developer.</li>
-  <li>🌐 Currently working as Flutter full stack developer.</li>
+  <li>🌐 Currently working as web full stack developer.</li>
   <li>💭 Always up to learn something new.</li>
   <li>🎮👾 Video game enthusiast!</li>
   <li>💼 Contact me via <a href="https://www.linkedin.com/in/javiertomeroldan/">Linkedin</a>.</li>
